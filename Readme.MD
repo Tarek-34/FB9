@@ -20,4 +20,4 @@ This project is a simple graphical user interface (GUI) built using Python's `tk
    git clone <repository-url>
 *If needed this is the prompt to download the requried settings- pip install openai python-dotenv
 
-## You will need to replace api_key = os.getenv("AI_API_KEY") with api_key = "Your own api_key" and when you run it a messeage in the terminal will let you know if it was loaded successful or not.
+You will need to replace api_key = os.getenv("AI_API_KEY") with api_key = "Your own api_key" and when you run it a messeage in the terminal will let you know if it was loaded successful or not.
